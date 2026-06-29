@@ -1,0 +1,424 @@
+# Inazuma-ryū (稲妻流)
+
+L'enseignement de l'Inazuma-ryū est divisé en trois niveaux :
+
+- **Shoden (初伝)** — ceintures blanche à orange
+- **Chūden (中伝)** — ceintures verte à marron (port du hakama autorisé)
+- **Okuden (奥伝)** — ceintures noire, rouge et violette (grades dan)
+
+## Shoden (初伝)
+
+### Ceinture blanche
+
+#### Nage-waza (投げ技) — Projections
+- O-soto-gari (grand fauchage extérieur)
+- De-ashi-barai (balayage du pied avancé)
+
+#### Ukemi (受身) — Chutes
+- Mae ukemi (chute avant)
+- Ushiro ukemi (chute arrière)
+- Yoko ukemi (chute latérale)
+
+#### Tai sabaki (体捌き) — Déplacements
+- Ayumi ashi (marche)
+- Tsugi ashi (pas glissé)
+- Irimi (entrée dans l'attaque)
+- Tenkan (pivot circulaire)
+
+#### Ate-waza (当て技) — Frappes
+
+##### Tsuki-waza (突き技) — Coups de poing
+- Oi-zuki (coup de poing en avançant)
+- Gyaku-zuki (coup de poing inversé)
+
+##### Geri-waza (蹴り技) — Coups de pied
+- Mae-geri (coup de pied frontal)
+
+#### Uke-waza (受け技) — Blocages
+- Gedan-barai (balayage bas)
+- Age-uke (blocage haut)
+
+#### Osae-waza (抑え技) — Contrôles
+- Ikkyo (premier principe de contrôle)
+
+#### Iaidō / Kenjutsu (居合道 / 剣術) — Sabre
+- Reihō (étiquette du sabre)
+- Nukitsuke (dégainé et coupe initiale)
+- Kirioroshi / Shōmen-uchi (coupe descendante)
+- Noto (rengainer)
+
+### Conditions pour accéder à la ceinture jaune
+
+L'élève doit démontrer :
+- Une bonne maîtrise des chutes.
+- La capacité à se déplacer en sécurité.
+- La maîtrise des frappes et blocages fondamentaux.
+- La compréhension des notions de distance (Ma-ai) et de timing.
+- Une connaissance correcte de l'étiquette du dojo et du sabre.
+
+### Ceinture jaune
+
+#### Nage-waza (投げ技)
+- O-goshi (grande projection de hanche)
+- Irimi-nage (projection par entrée)
+
+#### Osae-waza (抑え技)
+- Nikyo (deuxième principe de contrôle)
+
+#### Kansetsu-waza (関節技) — Clés articulaires
+- Ude-garami (clé du bras en torsion)
+
+#### Tai sabaki (体捌き)
+- Tai no henko (changement de direction du corps)
+- Irimi-tenkan (entrée suivie d'un pivot)
+
+#### Ate-waza (当て技)
+
+##### Tsuki-waza
+- Kizami-zuki (direct avant rapide)
+
+##### Geri-waza
+- Mawashi-geri (coup de pied circulaire)
+
+##### Uke-waza
+- Soto-uke (blocage extérieur)
+- Uchi-uke (blocage intérieur)
+
+#### Bōjutsu (棒術) — Bâton
+- Kamae (gardes de base)
+- Frappe verticale
+- Frappe horizontale
+- Tsuki (estoc)
+
+#### Iaidō / Kenjutsu
+- Chiburi (nettoyage symbolique de la lame)
+- Kesa-giri / Yōmen-uchi (coupe diagonale)
+
+### Conditions pour accéder à la ceinture orange
+
+L'élève doit démontrer :
+- Une bonne coordination des déplacements et des frappes.
+- La maîtrise des projections et contrôles appris.
+- Une capacité à utiliser les techniques dans des situations imposées.
+- Une maîtrise des fondamentaux du bō et du sabre.
+
+### Ceinture orange
+
+#### Nage-waza (投げ技)
+- Seoi-nage (projection par l'épaule)
+- Shiho-nage (projection des quatre directions)
+- Kote-gaeshi (retournement du poignet)
+- Tai-otoshi (renversement du corps)
+
+#### Osae-waza (抑え技)
+- Sankyo (troisième principe de contrôle)
+
+#### Osaekomi-waza (抑込技) — Immobilisations
+- Kesa-gatame (immobilisation en écharpe)
+- Kami-shiho-gatame (immobilisation supérieure à quatre points)
+
+#### Kansetsu-waza (関節技)
+- Juji-gatame (clé de bras en croix)
+
+#### Ate-waza (当て技)
+
+##### Tsuki-waza
+- Uraken (revers du poing)
+- Tate-zuki (coup de poing vertical)
+
+##### Geri-waza
+- Yoko-geri (coup de pied latéral)
+
+#### Bōjutsu (棒術)
+- Balayages de base
+- Enchaînements fondamentaux
+
+#### Iaidō / Kenjutsu
+- Gyaku-kesa-giri (coupe diagonale inversée)
+- Tsuki (estoc)
+
+### Conditions pour accéder au Chūden (中伝)
+
+L'élève doit démontrer :
+- La maîtrise de toutes les techniques du Shoden.
+- Une exécution fluide des déplacements, frappes, projections et contrôles.
+- La capacité à enchaîner plusieurs techniques.
+- La maîtrise des bases du sabre et du bâton.
+- Un comportement exemplaire au dojo.
+- La compréhension des principes fondamentaux de l'Inazuma-ryū : contrôle, fluidité, vitesse et adaptation.
+
+L'accès au Chūden autorise le port du hakama (袴).
+
+## Chūden (中伝) — Enseignement intermédiaire
+
+*(port du hakama autorisé)*
+
+Le Chūden marque le passage de l'apprentissage des bases à leur application fluide et spontanée. L'accent est mis sur les enchaînements, les contre-techniques et l'intégration des armes.
+
+### Ceinture verte
+
+#### Nage-waza (投げ技) — Projections
+- Harai-goshi (hanche balayée)
+- Kaiten-nage (projection rotative)
+- Uchi-mata (fauchage intérieur de la cuisse)
+
+#### Osae-waza (抑え技) — Contrôles
+- Yonkyo (quatrième principe de contrôle)
+
+#### Ate-waza (当て技) — Frappes
+
+##### Tsuki-waza (突き技)
+- Empi-uchi (coup de coude)
+
+##### Geri-waza (蹴り技)
+- Ushiro-geri (coup de pied arrière)
+
+#### Kaeshi-waza (返し技) — Contres
+- Contres simples sur saisies
+- Contres sur frappes directes
+
+#### Bōjutsu (棒術)
+- Enchaînements intermédiaires
+- Défenses contre frappes au bâton
+
+#### Iaidō / Kenjutsu (居合道 / 剣術)
+- Enchaînements Nukitsuke → Kirioroshi → Noto
+- Travail contre adversaire statique
+
+### Conditions pour accéder à la ceinture bleue
+
+L'élève doit démontrer :
+- La maîtrise des techniques du Shoden.
+- Une bonne fluidité dans les déplacements.
+- Une capacité à enchaîner plusieurs techniques sans interruption.
+- La maîtrise des contre-techniques fondamentales.
+- Une utilisation correcte du hakama et des armes.
+
+### Ceinture bleue
+
+#### Nage-waza (投げ技)
+- Kokyu-nage (projection par la respiration)
+- Tenchi-nage (projection ciel-terre)
+- Tomoe-nage (projection circulaire)
+
+#### Osae-waza (抑え技)
+- Gokyo (cinquième principe de contrôle)
+
+#### Kansetsu-waza (関節技)
+- Ude-hishigi-ude-gatame (clé de bras)
+- Variantes avancées d'Ude-garami
+
+#### Ate-waza (当て技)
+
+##### Tsuki-waza
+- Morote-zuki (coup de poing à deux mains)
+
+##### Geri-waza
+- Mikazuki-geri (coup de pied en croissant)
+
+#### Kaeshi-waza (返し技)
+- Contres sur projections
+- Contres sur clés articulaires
+
+#### Randori (乱取り) — Travail libre
+- Randori dirigé
+- Travail contre plusieurs attaques codifiées
+
+#### Bōjutsu (棒術)
+- Désarmements de base
+- Combinaisons offensives et défensives
+
+#### Iaidō / Kenjutsu
+- Travail contre adversaire mobile
+- Formes intermédiaires
+
+### Conditions pour accéder à la ceinture marron
+
+L'élève doit démontrer :
+- Une bonne capacité d'adaptation.
+- La maîtrise du randori dirigé.
+- La capacité à combattre à mains nues et avec armes.
+- Une bonne compréhension tactique.
+
+### Ceinture marron
+
+#### Nage-waza (投げ技)
+- Variantes avancées de toutes les projections étudiées
+- Combinaisons de projections
+
+#### Kaeshi-waza (返し技)
+- Contres avancés
+- Renversements de situation
+
+#### Henka-waza (変化技) — Variantes
+- Adaptations techniques selon la résistance de l'adversaire
+
+#### Renraku-waza (連絡技) — Enchaînements
+- Frappes → projections
+- Projections → immobilisations
+- Armes → mains nues
+
+#### Randori (乱取り)
+- Randori libre
+- Randori multi-adversaires
+
+#### Bōjutsu (棒術)
+- Combat libre codifié au bâton
+
+#### Iaidō / Kenjutsu
+- Formes avancées
+- Applications martiales des kata
+- Travail de réaction au dégainé
+
+### Conditions pour accéder à l'Okuden (奥伝)
+
+L'élève doit démontrer :
+- Une maîtrise complète du programme Shoden et Chūden.
+- Une parfaite maîtrise des principes de l'Inazuma-ryū.
+- Une capacité à enseigner les bases aux débutants.
+- Une excellente maîtrise technique, mentale et éthique.
+- La capacité à appliquer les techniques de manière fluide et spontanée.
+
+L'entrée dans l'Okuden marque l'accès aux enseignements avancés et aux techniques propres à l'Inazuma-ryū.
+
+## Okuden (奥伝)
+
+*(grades dan)*
+
+L'Okuden constitue l'enseignement avancé de l'Inazuma-ryū. Il est consacré aux techniques propres à l'école, aux applications martiales réalistes, au combat libre et à la transmission.
+
+### Ceinture noire (Shodan et plus)
+
+#### Inazuma-waza (稲妻技) — Techniques propres à l'Inazuma-ryū
+
+##### Inazuma no Ri (稲妻の理) — Le Principe de l'Éclair
+
+Principe fondamental de l'Inazuma-ryū consistant à éliminer tout mouvement superflu afin d'agir au moment exact avec une vitesse et une fluidité maximales. À ce moment là le corps entrera dans un état entre l'action intense et le repos total, ce qui est parfois appelé le flow state ou encore la zone (notamment au basketball) mais aussi le monde limpide car selon certaines croyances, si on maîtrise cet état, on peut déduire et anticiper tous les mouvements de l'adversaire comme si on lisait en lui ou justement comme si son corps était "transparent".
+
+##### Inazuma Gaeshi (稲妻返し) — Retour de l'Éclair
+
+Contre exécuté après une esquive ou un blocage. Le pratiquant dévie l'attaque adverse, entre immédiatement dans la garde de l'adversaire puis applique une projection en chute avant, ou une immobilisation sans laisser de temps de réaction.
+
+##### Raimei Otoshi (雷鳴落とし) — Chute du Tonnerre
+
+Projection puissante consistant à rompre brutalement l'équilibre de l'adversaire vers l'avant ou vers le bas par une combinaison de traction, de déséquilibre et d'abaissement du centre de gravité en tenant le cou et le bras.
+
+##### Shiden Nage (紫電投げ) — Projection de l'Éclair Violet
+
+Projection exécutée immédiatement après un atemi. La frappe crée une ouverture ou un déséquilibre permettant l'exécution instantanée de la projection tenchi-nage suivi d'un mae-geri ou d'un raimae-geri
+
+##### Raiken (雷拳) — Poing de Foudre
+
+Coup de poing direct explosif exécuté après un déplacement d'Irimi afin de pénétrer rapidement dans la garde adverse.
+
+##### Raimawashi-geri (雷回し蹴り) — Coup de pied circulaire de la Foudre
+
+Mawashi-geri exécuté immédiatement après une esquive ou un Tenkan afin de surprendre l'adversaire.
+
+##### Raimae-geri (雷前蹴り) — Coup de pied frontal de la Foudre
+
+Mae-geri puissant destiné à créer une ouverture permettant un enchaînement vers une projection ou une immobilisation.
+
+#### Jissen-waza (実戦技) — Techniques de combat réel
+
+##### Atama Osae Geri (頭押さえ蹴り) — Coup de genou avec contrôle de la tête
+
+Après avoir saisi la tête ou la nuque de l'adversaire, le pratiquant tire celui-ci vers lui afin de porter un coup de genou puissant au plexus, à l'abdomen ou au visage.
+
+##### Mae Osae Tsuki (前押さえ突き) — Coup direct avec contrôle du bras
+
+Après avoir dévié une attaque, le pratiquant contrôle le bras adverse d'une main tout en portant immédiatement un coup de poing direct de l'autre main afin d'empêcher toute contre-attaque.
+
+#### Randori (乱取り) — Travail libre
+- Randori libre à mains nues.
+- Randori contre plusieurs adversaires.
+- Randori avec armes d'entraînement.
+- Randori avec transitions armes / mains nues.
+
+#### Iaidō / Kenjutsu (居合道 / 剣術) — Sabre
+
+##### Kōmyō no Kata (光明の型) — Formes de la Lumière Éclatante
+
+###### Kōmyō Uke (光明受け) — Réception de la Lumière
+
+Dégainé défensif consistant à effectuer un Nukitsuke sans coupe initiale afin d'adopter immédiatement une garde haute destinée à bloquer une attaque descendante.
+
+###### Harai Kōyō Uchi (払い光陽打ち) — Frappe Balayante du Soleil Rayonnant
+
+Coupe diagonale descendante de type Yōmen Uchi visant à balayer la lame adverse vers le bas et l'extérieur afin de désarmer l'adversaire ou d'ouvrir sa garde.
+
+###### Kōrin Barai (光輪払い) — Balayage de l'Anneau de Lumière
+
+Balayage circulaire latéral destiné à dévier ou écarter une attaque adverse avant une contre-attaque immédiate.
+
+###### Yūgure Giri (夕暮れ斬り) — Coupe du Crépuscule
+
+Le pratiquant effectue d'abord une coupe de balayage horizontal destinée à écarter la garde ou la lame adverse. Utilisant ensuite l'énergie cinétique générée par ce mouvement, il exécute un pivot complet à 360 degrés avant de porter une coupe dirigée vers la nuque ou les épaules de l'adversaire. Le mouvement se termine par le Zanshin puis le Noto.
+
+### Conditions pour accéder à la ceinture rouge
+
+L'élève doit démontrer :
+- Une parfaite maîtrise du programme Shoden et Chūden.
+- Une exécution fluide et réaliste des techniques.
+- Une maîtrise des Inazuma-waza.
+- Une capacité à combattre contre plusieurs adversaires.
+- Une bonne compréhension des principes tactiques de l'Inazuma-ryū.
+- Une capacité à assister l'enseignement.
+
+### Ceinture rouge (recevable si jugée nécessaire à partir de Sandan)
+
+#### Henka-waza (変化技) — Variantes techniques
+- Adaptations des techniques selon la morphologie et la résistance de l'adversaire.
+- Variantes personnelles des techniques fondamentales.
+- Développement des enchaînements propres à l'Inazuma-ryū.
+
+#### Kaeshi-waza (返し技) — Contres avancés
+- Contres sur projections.
+- Contres sur clés articulaires.
+- Contres sur attaques armées.
+- Contres contre plusieurs adversaires.
+
+#### Jissen-waza (実戦技) — Combat réel
+
+##### Bō Tori (棒取り) — Désarmements contre bâton
+
+##### Tantō Tori (短刀取り) — Défenses contre couteau d'entraînement
+
+##### Tachi Dori (太刀取り) — Défenses contre sabre
+
+#### Transmission
+- Assistance régulière à l'enseignement.
+- Encadrement des pratiquants débutants et intermédiaires.
+- Participation aux passages de grades inférieurs.
+
+### Conditions pour accéder à la ceinture violette
+
+L'élève doit démontrer :
+- Une maîtrise complète du programme de l'école.
+- Une capacité à transmettre les fondamentaux.
+- Une excellente maîtrise technique et mentale.
+- Une compréhension approfondie des principes de l'Inazuma-ryū.
+- Une aptitude à créer et adapter des réponses techniques selon la situation.
+
+### Ceinture violette (recevable si jugée nécessaire à partir de Rokuda)
+
+#### Okugi (奥義) — Enseignements profonds
+- Étude approfondie des principes de l'Inazuma-ryū.
+- Recherche et développement de nouvelles techniques.
+- Perfectionnement des Inazuma-waza.
+- Développement des Kata de l'école.
+
+#### Randori (乱取り)
+- Randori libre avancé.
+- Randori contre plusieurs adversaires armés et non armés.
+- Randori avec transitions complètes entre armes et combat à mains nues.
+
+#### Dōjō Chidō (道場指導) — Direction et enseignement
+- Conduite d'un cours complet.
+- Préparation des élèves aux examens.
+- Préservation et transmission de l'Inazuma-ryū.
+
+#### Kenkyū (研究) — Recherche martiale
+- Création de nouvelles variantes techniques.
+- Étude d'autres disciplines martiales afin d'enrichir l'Inazuma-ryū.
+- Préparation à l'enseignement complet de l'école et à la succession de la tradition.
